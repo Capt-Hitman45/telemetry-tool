@@ -1,0 +1,22 @@
+{
+    "500": [
+        "CPU LOAD"
+    ],
+    "501": [
+        "ERAM MEMORY",
+        "TOTAL",
+        "USED",
+        "EFLASH QSPI MEMORY", 
+        "TOTAL",
+        "USED",
+        "FLASH FMC MEMORY", 
+        "TOTAL",
+        "USED",
+        "IRAM HEAP MEMORY",
+        "TOTAL",
+        "REMAINING",
+        "ERAM HEAP MEMORY",
+        "TOTAL",
+        "REMAINING"
+    ]
+}

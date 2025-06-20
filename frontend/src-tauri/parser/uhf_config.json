@@ -1,0 +1,57 @@
+{
+    "800": [
+        "up time",
+        "uart1 rx count",
+        "uart0 rx count",
+        "rx mode",
+        "tx mode",
+        "Pkt rejected checksum",
+        "Pkt rejected reserved",
+        "Pkt rejected other",
+        "data uart tx cnt",
+        "data uart rx cnt"
+    ],
+    "803": [
+        "TM Len", 
+        "base frequency",
+        "modulation type", 
+        "preamble number",
+        "enable dc filter"
+    ],
+    "807": [
+        "Demod Sync Word", 
+        "Maximum Packet Length",
+        "Whitening Enable", 
+        "Packet Format ",
+        "CRC Enable ", 
+        "Pkt Length Config"
+    ],
+    "819": [
+        "uart0 rx count", 
+        "uart1 rx count",
+        "rx mode ", 
+        "tx mode",
+        "data uart tx cnt ", 
+        "data uart rx cnt "
+    ],
+    "823": [
+        "uhf fsm state",
+        "uhf scheduler gnt cont",
+        "uhf tc gnt cont status",
+        "uhf uart data rx cnt",
+        "uhf tm csp rx cnt",
+        "uhf tm csp tx cnt",
+        "uhf uart data tx cnt",
+        "uhf tm csp tx fail cnt",
+        "uhf uart cmd tx cnt",
+        "uhf uart cmd rx cnt"
+    ],
+    "815": [
+        "Latitude",
+        "Longitude",
+        "Position x",
+        "Position y",
+        "Position z"
+    ]
+}
+
